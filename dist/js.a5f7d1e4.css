@@ -1,0 +1,5 @@
+.clock ul li {
+  list-style: none; }
+
+.clock:last-child .clock-title {
+  color: red; }
